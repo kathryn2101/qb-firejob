@@ -39,14 +39,14 @@ Add this to qb-core/shared.lua/QBShared.Jobs or if your using the latest QBCore 
 				payment = 300
 			},
             	['7'] = {
-                	name = 'Assistant Chief',
-                	isboss = true,
-                	payment = 350
+                		name = 'Assistant Chief',
+                		isboss = true,
+                		payment = 350
             	},
             	['8'] = {
-                	name = 'Fire Chief',
-                	isboss = true,
-                	payment = 400
+                		name = 'Fire Chief',
+                		isboss = true,
+                		payment = 400
             	},
 		},
 	},

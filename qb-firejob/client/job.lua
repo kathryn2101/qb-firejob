@@ -50,7 +50,6 @@ RegisterNetEvent('QBCore:Client:OnPlayerUnload', function()
     deathTime = 0
     SetEntityInvincible(ped, false)
     SetPedArmour(ped, 0)
-    ResetAll()
 end)
 
 RegisterNetEvent('QBCore:Client:SetDuty', function(duty)
